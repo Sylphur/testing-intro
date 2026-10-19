@@ -11,4 +11,8 @@ describe('filterByCategory', () => {
   test.todo("'clothes' возвращает пустой массив");
   test.todo("'toys' возвращает пустой массив");
   test.todo("'sports' возвращает пустой массив");
+
+  test("'all' возвращает товары с ID [1, 2, 3, 4, 5, 6]", () => {
+
+  });
 });
